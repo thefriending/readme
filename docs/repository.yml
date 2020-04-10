@@ -1,0 +1,13 @@
+---
+name: README
+slug: readme
+project: thefriending
+description: README for the Friending Community.
+license:
+  name: MIT
+tags:
+  - readme
+  - branding
+  - icons
+  - overview
+  - code-of-conduct
